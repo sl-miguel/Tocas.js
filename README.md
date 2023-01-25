@@ -23,5 +23,3 @@ Rename the following [configuration.example.json](configuration.example.json) to
 ## License
 
 Tocas.js is under [MIT License](./LICENSE)
-
-```
