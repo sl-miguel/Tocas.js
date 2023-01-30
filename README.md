@@ -1,9 +1,12 @@
 # Tocas.js
 
-A versatile, feature-rich Discord bot built with [Discord.js](https://discord.js.org), providing a wide range of functionality and customization options for users and servers.
+A simple, Discord bot built with [Discord.js](https://discord.js.org), trying to provide a wide range of functionality and customization options for users and servers.
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+![Made](https://img.shields.io/static/v1?label=Powered%20by&message=Javascript&color=yellow&style=for-the-badge)
+![Discord Version](https://img.shields.io/static/v1?label=Discord.js&message=v14&color=blue&style=for-the-badge)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/sl-miguel/Tocas.js?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/sl-miguel/Tocas.js?style=for-the-badge)
+
 
 ## Install
 
