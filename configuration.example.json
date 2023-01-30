@@ -1,0 +1,17 @@
+{
+  "BOT": {
+    "TOKEN": "YOUR_BOT_TOKEN",
+    "OWNERS": ["YOUR_OWNER_ID", "..."]
+  },
+  "DATABASE": {
+    "URI": "MONGODB_URI"
+  },
+  "GUILDS": {
+    "DEV": ["GUILD_ID_TEST_COMMANDS", "..."],
+    "PREMIUM": ["NOT IMPLEMENTED"]
+  },
+  "COOLDOWN": {
+    "BYPASS": false,
+    "THRESHOLD": 300
+  }
+}

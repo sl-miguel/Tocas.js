@@ -1,0 +1,5 @@
+# NPM MODULES
+/node_modules
+
+# MAIN CONFIGURATION
+configuration.json
